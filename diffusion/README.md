@@ -1,3 +1,5 @@
 # face-generation-compvis
 
-![GIF of diffusion output by epochs](./animation.gif)
+<p align="center">
+  <img src="animation.gif" alt="animated" />
+</p>
